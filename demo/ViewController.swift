@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         helloLabel.textColor = UIColor.red
+        helloLabel.textColor = UIColor.black
     }
 
     override func didReceiveMemoryWarning() {
